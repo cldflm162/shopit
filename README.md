@@ -13,8 +13,6 @@ ShopIt is a full-stack e-commerce platform built using the MERN (MongoDB, Expres
 ## Technologies Used
 - **Backend**: Node.js, Express.js, MongoDB
 - **Frontend**: React.js, JavaScript, Redux
-- **Authentication**: JWT, bcrypt.js
-- **Payment Integration**: Stripe/PayPal
 - **Deployment**: AWS/Heroku
 
 ## Installation & Setup
